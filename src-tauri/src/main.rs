@@ -71,12 +71,9 @@ fn _generator() -> String{
       let mut bytes = _password.to_string().into_bytes();
       bytes.shuffle(&mut rng);
       _final_result = String::from_utf8(bytes).unwrap();
-      println!("resultado: {}", _final_result);
      
 
   }
-
-  println!("Password: {}", _final_result);
 
   _final_result
 
