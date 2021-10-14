@@ -2,7 +2,7 @@
 # Password Generator 
 for your personal accounts or more.
 
-# This calculator was built with 
+# This app was built with 
 - [Tauri](https://github.com/tauri-apps/tauri)
 - [Rust](https://github.com/tauri-apps/tauri)
 - [ReactJS](https://reactjs.org/)
