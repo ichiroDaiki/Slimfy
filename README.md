@@ -1,8 +1,6 @@
 
-# Password Generator 
-for your personal accounts or more.
-
-# This app was built with 
+## Password Generator 
+for your personal accounts or more. This app was built with 
 - [Tauri](https://github.com/tauri-apps/tauri)
 - [Rust](https://github.com/tauri-apps/tauri)
 - [ReactJS](https://reactjs.org/)
