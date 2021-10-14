@@ -12,9 +12,9 @@ body{
   width: 100%;
   height: 100vh;
   display: flex;
-  background-color: #fff;
+  background-color: RGB(0, 41, 138);
   flex-direction: column;
-  border-radius: 25px 25px 25px 25px;
+  border-radius: 4px;
 }
 
 .viewpassword{
@@ -24,8 +24,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
-
+  background-color: RGB(0, 41, 138);
 }
 
 .password{
@@ -34,15 +33,15 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: RGB(0, 41, 138);
 }
 
 .getpassword{
   width: 80%;
   height: 40px;
   font-weight: 900;
-  color: #6e798a;
-  border: 2px solid #6e798a;
+  color: RGB(17, 57, 160);
+  border: 2px solid RGB(17, 57, 160);
   border-radius: 5px;
   background-color: #fff;
   display: flex;
@@ -55,7 +54,7 @@ body{
   border-radius: 25px 25px 0px 0px;
   width: 100%;
   height: 40px;
-  background-color: #fff;
+  background-color: RGB(0, 41, 138);
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -63,7 +62,7 @@ body{
 
 .titlebar i{
   font-size: 20px;
-  color: #6e798a;
+  color: RGB(17, 57, 160);
   padding-right: 15px;
 }
 
@@ -74,9 +73,9 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: RGB(0, 41, 138);
   text-align: center;
-  color: #6e798a;
+  color: RGB(255, 255, 255);
 }
 
 .title-sl{
@@ -92,13 +91,13 @@ body{
   width: 80%;
   height: 40px;
   border: none;
-  background-color: #eaebf0;
-  font-weight: 900;
-  color: #6e798a;
+  background-color:RGB(17, 57, 160);
+  font-weight: 400;
+  color: #fff;
   font-size: 15px;
   cursor: pointer;
 }
 
 .btn-gen:hover{
-  background-color:#dbdbdb;
+  background-color:RGB(17, 57, 160);
 }
