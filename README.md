@@ -6,6 +6,6 @@ for your personal accounts or more. This app was built with
 - [ReactJS](https://reactjs.org/)
 
 ## Capture of the app
-- [Ver Captura](https://cloud.degoo.com/share/aoGIaH9GNbpgcaMby7I-ZA)
+- [Ver Captura](https://lh3.googleusercontent.com/boj3lMK7sTQLLhSM58-QRKGVQ4QI00sO3GyHnYi4g6g-E9RYPJbJyG4hMfNZO_Tn_o1C5RV_m4XvSFCekXsg75iDAJEjLeduslHpMg=w1366-h649-rw-sm-pa-nu-v0)
 
-![Alt text](https://lh3.googleusercontent.com/2hC8MbWkbYR2WznSEcnLrd_t1HKBtyGQdnVCX-RAZh0sa3e2jNZdyPdE7sXXkWAUMRc4GqoM8xIVXRyZ_QsOjAF1JgLItGpJYTd56U8=w1366-h661-rw-sm-pa-nu-v0)
+![Alt text](https://lh3.googleusercontent.com/boj3lMK7sTQLLhSM58-QRKGVQ4QI00sO3GyHnYi4g6g-E9RYPJbJyG4hMfNZO_Tn_o1C5RV_m4XvSFCekXsg75iDAJEjLeduslHpMg=w1366-h649-rw-sm-pa-nu-v0)
