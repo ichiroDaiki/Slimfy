@@ -3,16 +3,20 @@ import './App.css'
 import { appWindow } from '@tauri-apps/api/window'
 import { invoke } from '@tauri-apps/api/tauri'
 
-
 function App() {
+
+  const [maximize, setMaximize] = useState(false);
 
   useEffect(() => {
     document
       .getElementById('titlebar-minimize')
       .addEventListener('click', () => appWindow.minimize())
+
+      
     document
       .getElementById('titlebar-close')
       .addEventListener('click', () => appWindow.close())
+      
   }, [])
 
   const [password, SetPassword] = useState("");
@@ -23,6 +27,7 @@ function App() {
 
   return (
     <div className="App">
+
       <div data-tauri-drag-region className="titlebar">
         <i className="fas fa-minus-circle" id="titlebar-minimize"></i>
         <i className="fas fa-times-circle" id="titlebar-close"></i>

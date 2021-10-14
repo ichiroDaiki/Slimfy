@@ -6,7 +6,6 @@
 use rand::Rng;
 use rand::seq::SliceRandom;
 
-
 fn shuffle(x: &mut String) -> String{
       let mut rng = rand::thread_rng();
       let mut bytes = x.clone().into_bytes();
@@ -63,7 +62,7 @@ fn _generator() -> String{
 
 fn main() {
   tauri::Builder::default()
-    // This is where you pass in your commands
+
     .invoke_handler(tauri::generate_handler![_generator])
     .run(tauri::generate_context!())
     .expect("failed to run app");
